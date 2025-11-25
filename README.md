@@ -51,6 +51,10 @@ LeetCode Stats API
 
 🔔 Notifications for new solved problems
 
+## Demo
+
+Click for demo : https://manmath-1.github.io/LeetMetric/
+
 **📝 License**
 
 This project is licensed under the MIT License.
