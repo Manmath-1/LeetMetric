@@ -20,7 +20,7 @@ LeetMetric is a web app that tracks your LeetCode progress! 📊 Enter your user
 
 Clone or download the repository
 
-git clone https://github.com/yourusername/leetmetric.git
+git clone https://github.com/manmath-1/leetmetric.git
 
 
 Open index.html in your browser
